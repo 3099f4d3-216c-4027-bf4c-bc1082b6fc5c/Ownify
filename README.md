@@ -16,7 +16,7 @@ All information must be stored encrypted. The user / user has the possibility to
 All communication must be encrypted. This is to ensure that the data cannot be viewed or changed on the way.
 ## Technology
 ### Communication
-Communication must be encrypted. This means that all interfaces must be addressed encrypted. That no manipulation of the data can take place. This must be done on the basis of known methods, such as SSL/TLS. [^ SSL/ TLS: https://en.wikipedia.org/wiki/Transport_Layer_Security]
+Communication must be encrypted. This means that all interfaces must be addressed encrypted. That no manipulation of the data can take place. This must be done on the basis of known methods, such as SSL/TLS. [^1]
 
 ### Storage
 The data must be stored encrypted, which makes manipulation of the data more difficult or impossible.
@@ -44,3 +44,4 @@ The YaCy [^YaCy: https://yacy.net] project was found as a distributed search eng
 Based on this, the central system prevails to this day and thus the user is an element of this system, nothing will change in this basic concept, with the difference that the user should and will be paid for his work. This can be achieved by using a blockchain [^Crypto Currency: https://en.wikipedia.org/wiki/Cryptocurrency] and a crypto currency 5. This means in detail that when a user provides information or systems, he is paid and the system can continue to grow.
 
 
+[^1]: SSL/ TLS: https://en.wikipedia.org/wiki/Transport_Layer_Security
