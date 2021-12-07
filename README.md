@@ -38,10 +38,13 @@ Every user is fairly rewarded for what they bring to their followers
 
 ## Tools and Programs
 ### Search engine
-The YaCy [^YaCy: https://yacy.net] project was found as a distributed search engine. It is characterized by the fact that the information is stored distributed from the beginning and the index is also queried distributed. The basis for search engine is a peer to peer network [^Peer to Peer Network: https://en.wikipedia.org/wiki/Peer-to-Peer]
+The YaCy [^2] project was found as a distributed search engine. It is characterized by the fact that the information is stored distributed from the beginning and the index is also queried distributed. The basis for search engine is a peer to peer network [^3]
 
 ### Payment and monetization
-Based on this, the central system prevails to this day and thus the user is an element of this system, nothing will change in this basic concept, with the difference that the user should and will be paid for his work. This can be achieved by using a blockchain [^Crypto Currency: https://en.wikipedia.org/wiki/Cryptocurrency] and a crypto currency 5. This means in detail that when a user provides information or systems, he is paid and the system can continue to grow.
+Based on this, the central system prevails to this day and thus the user is an element of this system, nothing will change in this basic concept, with the difference that the user should and will be paid for his work. This can be achieved by using a blockchain [^4] and a crypto currency 5. This means in detail that when a user provides information or systems, he is paid and the system can continue to grow.
 
 
 [^1]: SSL/ TLS: https://en.wikipedia.org/wiki/Transport_Layer_Security
+[^2]: YaCy: https://yacy.net
+[^3]: Peer to Peer Network: https://en.wikipedia.org/wiki/Peer-to-Peer
+[^4]: Crypto Currency: https://en.wikipedia.org/wiki/Cryptocurrency
